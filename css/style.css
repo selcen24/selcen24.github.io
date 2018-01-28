@@ -1,0 +1,1107 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\000031}}
+html {
+  font-size: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\000038}}
+header {
+  background: url(../img/bg_img.jpg) center top no-repeat;
+  background-size: cover;
+  padding-top: 3rem;
+  padding-bottom: 5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000317}}
+.header-bestpapa-btn {
+  text-align: center;
+  border: 2px solid #fff;
+  font-family: 'Museo Sans Cyrl 900';
+  color: #fff;
+  font-size: 2.4rem;
+  padding: 5px 12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000326}}
+.header-phone {
+  font-family: 'Museo Sans Cyrl 700';
+  color: #fff;
+  font-size: 2.4rem;
+  text-align: right;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000332}}
+.header-ordercall {
+  text-align: right;
+  outline: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000335}}
+.header-ordercall a {
+  outline: none;
+  font-family: 'Museo Sans Cyrl 300';
+  color: #fff;
+  font-size: 1.8rem;
+  text-decoration: underline;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000343}}
+.header-main-title {
+  font-family: 'Museo Sans Cyrl 700';
+  color: #fff;
+  font-size: 5rem;
+  text-align: center;
+  margin-top: 10rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000350}}
+.header-under-title {
+  font-family: 'Museo Sans Cyrl 300';
+  color: #fff;
+  font-size: 3.3rem;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000356}}
+.header-makeorder-btn {
+  text-align: center;
+  margin-top: 7rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000359}}
+.header-makeorder-btn a {
+  outline: none;
+  font-family: 'Museo Sans Cyrl 700';
+  color: #fff;
+  font-size: 2rem;
+  padding: 10px 60px;
+  border: 2px solid #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000368}}
+.header-makeorder-btn a:hover {
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000373}}
+.header-features {
+  margin-top: 13rem;
+  text-align: center;
+  font-family: 'Museo Sans Cyrl 300';
+  color: #fff;
+  font-size: 1.4rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000380}}
+.header-features-text {
+  margin-top: 1rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000386}}
+section#unforgetable {
+  padding-top: 2rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000390}}
+.unforgetable-smallheart {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\0000393}}
+.unforgetable-head {
+  margin-top: 0.5rem;
+  font-family: 'Museo Sans Cyrl 700';
+  font-size: 3rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003100}}
+.unforgetable-wrap {
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003103}}
+.unforgetable-accord {
+  margin-top: 5rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003108}}
+.unforgetable-accord .item {
+  height: 200px;
+  -ms-flex-preferred-size: 20%;
+      flex-basis: 20%;
+  background-color: #aeaeae;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003114}}
+.unforgetable-accord .item:hover {
+  -ms-flex-preferred-size: 40%;
+      flex-basis: 40%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003118}}
+.unforgetable-accord .item-1 {
+  background: url(../img/unforg-pic1.jpg) center center no-repeat;
+  background-size: cover;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003122}}
+.unforgetable-accord .item-2 {
+  background: url(../img/unforg-pic2.jpg) center center no-repeat;
+  background-size: cover;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003126}}
+.unforgetable-accord .item-3 {
+  background: url(../img/unforg-pic3.jpg) center center no-repeat;
+  background-size: cover;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003130}}
+.unforgetable-accord .item-4 {
+  background: url(../img/unforg-pic4.jpg) center center no-repeat;
+  background-size: cover;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003134}}
+.unforgetable-accord .item-5 {
+  background: url(../img/unforg-pic5.jpg) center center no-repeat;
+  background-size: cover;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003138}}
+.unforgetable-accord .item-6 {
+  background: url(../img/unforg-pic6.jpg) center center no-repeat;
+  background-size: cover;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003145}}
+section#makeorder {
+  padding-top: 7rem;
+  padding-bottom: 5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003150}}
+.makeorder-title {
+  font-family: 'Museo Sans Cyrl 700';
+  font-size: 2.4rem;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003155}}
+.makeorder-undertitle {
+  margin-top: 1rem;
+  margin-bottom: 5rem;
+  font-family: 'Museo Sans Cyrl 300';
+  font-size: 1.8rem;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003162}}
+.makeorder-name {
+  height: 55px;
+  width: 280px;
+  border: 2px solid #d0d0d0;
+  background-image: url(../img/user_male.png);
+  background-repeat: no-repeat;
+  background-position: 245px;
+  outline: none;
+  padding-right: 33px;
+  padding-left: 10px;
+  font-family: 'Museo Sans Cyrl 300';
+  font-size: 18px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003175}}
+.makeorder-phone {
+  height: 55px;
+  width: 280px;
+  border: 2px solid #d0d0d0;
+  background-image: url(../img/phone.png);
+  background-repeat: no-repeat;
+  background-position: 245px;
+  outline: none;
+  padding-right: 33px;
+  padding-left: 10px;
+  font-family: 'Museo Sans Cyrl 300';
+  font-size: 18px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003188}}
+.makeorder-btn {
+  height: 55px;
+  width: 280px;
+  background-color: #5ba2a9;
+  border: none;
+  outline: none;
+  font-family: 'Museo Sans Cyrl 700';
+  font-size: 20px;
+  color: #fff;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003201}}
+section#reason {
+  padding-top: 2rem;
+  padding-bottom: 7rem;
+  background-color: #e8f7f9;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003207}}
+.reason-star {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003210}}
+.reason-head {
+  margin-top: 1.5rem;
+  margin-bottom: 7rem;
+  font-family: 'Museo Sans Cyrl 700';
+  font-size: 3rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003218}}
+.reason-items1 {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003221}}
+.reason-items2 {
+  margin-top: 7rem;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003225}}
+.reason-text {
+  margin-top: 2rem;
+  font-family: 'Museo Sans Cyrl 300';
+  font-size: 16px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003232}}
+section#price {
+  padding-top: 3rem;
+  padding-bottom: 7rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003237}}
+.price-money {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003240}}
+.price-head {
+  margin-top: 1.5rem;
+  margin-bottom: 7rem;
+  font-family: 'Museo Sans Cyrl 700';
+  font-size: 3rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003250}}
+.option {
+  text-align: center;
+  border: 1px solid #d0d0d0;
+  padding: 5rem 2rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003254}}
+.option:hover {
+  -webkit-box-shadow: 0 0 30px #bfdbde;
+          box-shadow: 0 0 30px #bfdbde;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003257}}
+.option-name {
+  margin-bottom: 2rem;
+  font-family: 'Museo Sans Cyrl 300';
+  font-size: 1.6rem;
+  color: #212121;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003263}}
+.option-price {
+  font-family: 'Museo Sans Cyrl 500';
+  font-size: 4.8rem;
+  color: #5ba2a9;
+  margin-bottom: 2rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003268}}
+.option-price span {
+  font-family: 'Museo Sans Cyrl 300';
+  font-size: 1.8rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003273}}
+.option-text {
+  font-family: 'Museo Sans Cyrl 300';
+  font-size: 1.4rem;
+  color: #454545;
+  margin-bottom: 1rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003279}}
+.option-space {
+  margin-top: 4rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003282}}
+.option-btn {
+  outline: none;
+  background-color: transparent;
+  font-family: 'Museo Sans Cyrl 700';
+  font-size: 1.6rem;
+  color: #5a5a5a;
+  text-transform: uppercase;
+  border: 1px solid #d0d0d0;
+  padding: 15px 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003292}}
+.option-btn:hover {
+  text-decoration: none;
+  color: #fff;
+  background-color: #5ba2a9;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003300}}
+section#advantage {
+  padding-top: 3rem;
+  padding-bottom: 7rem;
+  background-color: #e8f7f9;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003306}}
+.advantage-star {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003309}}
+.advantage-head {
+  margin-top: 1.5rem;
+  margin-bottom: 7rem;
+  font-family: 'Museo Sans Cyrl 700';
+  font-size: 3rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003317}}
+.advantage-items1 {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003320}}
+.advantage-items2 {
+  margin-top: 7rem;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003324}}
+.advantage-text {
+  margin-top: 2rem;
+  font-family: 'Museo Sans Cyrl 300';
+  font-size: 16px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003332}}
+section#feedback {
+  padding-top: 3rem;
+  padding-bottom: 7rem;
+  background: url(../img/feed-bg.jpg) center center no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003338}}
+.feedback-bulb {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003341}}
+.feedback-head {
+  margin-top: 1.5rem;
+  margin-bottom: 5rem;
+  font-family: 'Museo Sans Cyrl 700';
+  font-size: 3rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003351}}
+.feed-slide {
+  width: 70rem;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003357}}
+.carousel-indicators {
+  left: 50%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003359}}
+.carousel-indicators .active {
+  background-color: #5ba2a9;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003362}}
+.carousel-indicators li {
+  border: 1px solid #5ba2a9;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003367}}
+.item {
+  background-color: #fff;
+  height: 300px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003372}}
+.slide-head {
+  margin-top: 4rem;
+  font-family: 'Museo Sans Cyrl 700';
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003378}}
+.slide-text {
+  width: 50rem;
+  margin-top: 3rem;
+  font-family: 'Museo Sans Cyrl 300';
+  font-size: 1.6rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003384}}
+.slide-man {
+  margin-top: 4.8rem;
+  margin-left: 2rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003389}}
+.glyphicon-chevron-left:before {
+  content: '';
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003392}}
+.glyphicon-chevron-right:before {
+  content: '';
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003395}}
+.carousel-control.left {
+  background: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003398}}
+.carousel-control.right {
+  background-image: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003403}}
+section#pictures {
+  padding-top: 3rem;
+  padding-bottom: 7rem;
+  background: #e8f7f9;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003409}}
+.pictures-bulb {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003412}}
+.pictures-head {
+  margin-top: 1.5rem;
+  margin-bottom: 5rem;
+  font-family: 'Museo Sans Cyrl 700';
+  font-size: 3rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003420}}
+.pictures-pic1 {
+  height: 460px;
+  width: 470px;
+  background: url(../img/pics-1.jpg) center center no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003425}}
+.pictures-pic2 {
+  height: 255px;
+  width: 460px;
+  background: url(../img/pics-2.jpg) center center no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003430}}
+.pictures-pic3 {
+  margin-left: 0.3rem;
+  height: 255px;
+  width: 445px;
+  background: url(../img/pics-3.jpg) center center no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003436}}
+.pictures-pic4 {
+  height: 220px;
+  width: 225px;
+  background: url(../img/pics-4.jpg) center center no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003441}}
+.pictures-pic5 {
+  height: 220px;
+  width: 225px;
+  background: url(../img/pics-5.jpg) center center no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003446}}
+.pictures-pic6 {
+  height: 220px;
+  width: 225px;
+  background: url(../img/pics-6.jpg) center center no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003451}}
+.pictures-pic7 {
+  height: 220px;
+  width: 225px;
+  background: url(../img/pics-7.jpg) center center no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003458}}
+.box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003463}}
+.box:hover .wrap {
+  height: 88%;
+  width: 88%;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003468}}
+.box:hover .sign {
+  display: block;
+  line-height: 90%;
+  color: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003475}}
+.sign {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003477}}
+.sign h4 {
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003481}}
+.wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003489}}
+table {
+  width: 400px;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003493}}
+td {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003498}}
+footer {
+  background-color: #222222;
+  padding: 5rem 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003504}}
+.footer-bestpapa-btn {
+  border: 2px solid #fff;
+  font-family: 'Museo Sans Cyrl 900';
+  color: #fff;
+  font-size: 2.4rem;
+  padding: 5px 12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003512}}
+.footer-phone {
+  font-family: 'Museo Sans Cyrl 700';
+  color: #fff;
+  font-size: 2.4rem;
+  text-align: right;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003518}}
+.footer-ordercall {
+  text-align: right;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003520}}
+.footer-ordercall a {
+  outline: none;
+  font-family: 'Museo Sans Cyrl 300';
+  color: #fff;
+  font-size: 1.8rem;
+  text-decoration: underline;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003543}}
+.modal-inputs {
+  height: 90px;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003546}}
+.modal-inputs input {
+  width: 250px;
+  margin-top: 2rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003551}}
+.modal-footer {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003553}}
+.modal-footer input {
+  margin-top: 2rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003558}}
+.modal-makeorder-name {
+  height: 55px;
+  border: 2px solid #d0d0d0;
+  background-image: url(../img/user_male.png);
+  background-repeat: no-repeat;
+  background-position: 210px;
+  outline: none;
+  padding-right: 33px;
+  padding-left: 10px;
+  font-family: 'Museo Sans Cyrl 300';
+  font-size: 18px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003570}}
+.modal-makeorder-phone {
+  height: 55px;
+  border: 2px solid #d0d0d0;
+  background-image: url(../img/phone.png);
+  background-repeat: no-repeat;
+  background-position: 210px;
+  outline: none;
+  padding-right: 33px;
+  padding-left: 10px;
+  font-family: 'Museo Sans Cyrl 300';
+  font-size: 18px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003582}}
+.modal-makeorder-btn {
+  height: 45px;
+  width: 140px;
+  background-color: #5ba2a9;
+  border: none;
+  outline: none;
+  font-family: 'Museo Sans Cyrl 700';
+  font-size: 18px;
+  color: #fff;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003596}}
+.form-group input {
+  margin: 0 auto;
+}
+@media (min-width: 321px) and (max-width: 480px) {
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003622}}
+  html {
+    font-size: 5px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003626}}
+  .header-phone {
+    margin-top: 3rem;
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003630}}
+  .header-ordercall {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003632}}
+  .header-ordercall a {
+    font-size: 2.5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003637}}
+  .header-main-title {
+    margin-top: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003642}}
+  .header-under-title {
+    font-size: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003647}}
+  .header-makeorder-btn {
+    margin-top: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003651}}
+  .header-features {
+    margin-top: 7rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003653}}
+  .header-features source {
+    width: 80px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003656}}
+  .header-features img {
+    width: 80px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003659}}
+  .header-features-text {
+    font-size: 3rem;
+    margin-bottom: 3.5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003666}}
+  section#makeorder {
+    padding-top: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003670}}
+  .makeorder-title {
+    font-size: 3.5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003673}}
+  .makeorder-undertitle {
+    margin-bottom: 2rem;
+    font-size: 2.5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003677}}
+  .makeorder-name {
+    margin-bottom: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003680}}
+  .makeorder-phone {
+    margin-bottom: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003684}}
+  section#reason {
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003688}}
+  .reason-head {
+    margin-bottom: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003691}}
+  .reason-text {
+    font-size: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 3.5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003697}}
+  .reason-items1 source {
+    width: 80px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003700}}
+  .reason-items1 img {
+    width: 80px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003705}}
+  .reason-items2 {
+    margin: 0;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003707}}
+  .reason-items2 source {
+    width: 80px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003710}}
+  .reason-items2 img {
+    width: 80px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003715}}
+  section#price {
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003719}}
+  .price-head {
+    margin-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003723}}
+  .option {
+    margin-bottom: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003725}}
+  .option-name {
+    font-size: 4rem;
+    margin-bottom: 0;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003729}}
+  .option-price {
+    font-size: 8rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003731}}
+  .option-price span {
+    font-size: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003735}}
+  .option-text {
+    font-size: 2.7rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003738}}
+  .option-btn {
+    font-size: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003742}}
+  section#advantage {
+    padding-bottom: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003746}}
+  .advantage-head {
+    margin-bottom: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003749}}
+  .advantage-items2 {
+    margin-top: 0;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003752}}
+  .advantage-text {
+    margin-top: 0;
+    margin-bottom: 3rem;
+    font-size: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003758}}
+  section#pictures {
+    display: none;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003761}}
+  section#feedback {
+    padding-bottom: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003764}}
+  .feed-slide {
+    width: 95%;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003768}}
+  .carousel-inner {
+    height: 290px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003772}}
+  .feedback-head {
+    margin-bottom: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003776}}
+  .slide-head {
+    font-size: 2.7rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003779}}
+  .slide-text {
+    width: 90%;
+    font-size: 2.5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003783}}
+  .slide-man {
+    width: 65px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003787}}
+  .disapear {
+    display: none;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003791}}
+  footer {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003796}}
+  .footer-phone {
+    margin-top: 1rem;
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003800}}
+  .footer-ordercall {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003802}}
+  .footer-ordercall a {
+    font-size: 2.5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003808}}
+  .modal-inputs {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003810}}
+  .modal-inputs input {
+    margin-top: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003814}}
+  .modal-footer {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003816}}
+  .modal-footer input {
+    margin-top: 2rem;
+  }
+}
+@media (min-width: 481px) and (max-width: 768px) {
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003827}}
+  html {
+    font-size: 9px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003831}}
+  .header-phone {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003835}}
+  .header-ordercall {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003839}}
+  .header-main-title {
+    margin-top: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003843}}
+  .header-features {
+    margin-top: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003845}}
+  .header-features source {
+    width: 80px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003848}}
+  .header-features img {
+    width: 80px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003851}}
+  .header-features-text {
+    font-size: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003857}}
+  section#makeorder {
+    padding-top: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003861}}
+  .makeorder-undertitle {
+    margin-bottom: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003864}}
+  .makeorder-name {
+    margin-bottom: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003867}}
+  .makeorder-phone {
+    margin-bottom: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003871}}
+  section#reason {
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003875}}
+  .reason-head {
+    margin-bottom: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003878}}
+  .reason-text {
+    font-size: 2.5rem;
+    margin-top: 1rem;
+    margin-bottom: 3.5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003884}}
+  .reason-items1 source {
+    width: 80px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003887}}
+  .reason-items1 img {
+    width: 80px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003892}}
+  .reason-items2 {
+    margin: 0;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003894}}
+  .reason-items2 source {
+    width: 80px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003897}}
+  .reason-items2 img {
+    width: 80px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003902}}
+  section#price {
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003906}}
+  .price-head {
+    margin-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003910}}
+  .option {
+    margin-bottom: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003912}}
+  .option-name {
+    font-size: 4rem;
+    margin-bottom: 0;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003916}}
+  .option-price {
+    font-size: 8rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003918}}
+  .option-price span {
+    font-size: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003922}}
+  .option-text {
+    font-size: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003926}}
+  section#advantage {
+    padding-bottom: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003930}}
+  .advantage-head {
+    margin-bottom: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003933}}
+  .advantage-items2 {
+    margin-top: 0;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003936}}
+  .advantage-text {
+    margin-top: 0;
+    margin-bottom: 3rem;
+    font-size: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003942}}
+  section#pictures {
+    display: none;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003945}}
+  section#feedback {
+    padding-bottom: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003948}}
+  .feed-slide {
+    width: 95%;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003951}}
+  .feedback-head {
+    margin-bottom: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003955}}
+  .slide-text {
+    width: 90%;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003958}}
+  .slide-man {
+    width: 100px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003962}}
+  .disapear {
+    display: none;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003966}}
+  footer {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003971}}
+  .footer-phone {
+    margin-top: 1rem;
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003975}}
+  .footer-ordercall {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003980}}
+  .modal-inputs {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003982}}
+  .modal-inputs input {
+    margin-top: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003986}}
+  .modal-footer {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\00003988}}
+  .modal-footer input {
+    margin-top: 2rem;
+  }
+}
+@media (min-width: 769px) and (max-width: 992px) {
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\000031000}}
+  .makeorder-name {
+    width: 240px;
+    background-position: 210px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\000031004}}
+  .makeorder-phone {
+    width: 240px;
+    background-position: 210px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\000031008}}
+  .makeorder-btn {
+    width: 240px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\000031013}}
+  .option-btn {
+    padding: 15px 15px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\000031017}}
+  section#pictures {
+    display: none;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\000031020}}
+  .disapear {
+    display: none;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\000031031}}
+.error {
+  border: 1px solid red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/1 Degree work\/app\/less\/style\.less}line{font-family:\000031035}}
+label.error {
+  border: none;
+  color: red;
+}
